@@ -1,0 +1,292 @@
+/*dropdown */
+
+.bar
+{
+    background:#e4e3e3;
+    
+    
+}
+
+.options:hover
+{
+      color:#d3dbff;
+      background-color: #e4e3e3;
+
+}
+
+#logo
+{
+    width:30px;
+    height: 30px;
+}
+#AH1
+{
+    margin-top: 10px;
+    text-align: center;
+}
+/*INDEX*/
+h1
+{
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.5rem;
+}
+
+.banner
+{
+    width: 100%;
+    height: 20%;
+}
+i{
+    display: block;
+}
+.inspiration
+{ 
+    text-align: center;
+    width:20%;
+    height:20%;
+    border-radius: 100%;
+}
+#quotes
+{ 
+
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #84A9AC;
+
+}
+.ceo-names
+{
+    font-family: 'Alfa Slab One', cursive;
+    color: #e4e3e3;
+}
+#quote-heading
+{
+ padding-top: 7%;
+ padding-bottom: 5%;
+}
+#creator-heading
+{
+    padding-top: 7%;
+    margin-top:4%;
+}
+q
+{
+    font-size: large;
+}
+#creators
+{
+    text-align: center;
+    padding: 7% 15%;
+    background: rgba(228, 227, 227);
+}
+.creator-bio
+{
+    font-family: 'Concert One', cursive;
+    color:black;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+#bottom
+{
+    text-align: center;
+    margin:7%;
+    color:#84A9AC;
+}
+.bottom-symbols
+{
+    padding:7% 15%;
+}
+.bottom-symbol-text
+{
+    color:#318fb5;
+}
+.bottom-symbols:hover{
+    color:#318fb5;
+}
+#channel-motto
+{
+    font-family: 'Concert One', cursive;
+    color:#318fb5;
+}
+.bottom-yt-symbol
+{
+    padding:3% 15%;
+    color:#dd2c00;
+}
+#stay-connected
+{
+    color: #00a1ab;
+    font-family: 'Concert One', cursive;
+}
+#app-title
+{
+    color: black;
+    font-family: 'Concert One', cursive;
+}
+#footer
+{
+    background:#84A9AC;
+    
+    text-align:center;
+    color:rgba(228, 227, 227);
+}
+.icon-bottom
+{
+    padding-top: 3%;
+    padding-left: 1%;
+    padding-right:1%;
+}
+#copyright
+{
+    color:whitesmoke;
+    margin-bottom: 0px;
+}
+/*
+
+.creator-background1
+{
+  background:url(../images/IMG-20200815-WA0012.jpg);
+  border-radius: 20px;
+  margin-top:3%;
+}
+.creator-background2
+{
+    background:url(../images/photostudio_1597482568612.jpg);
+    border-radius: 20px;
+    margin-top:3%;
+}
+.creator-background3
+{
+    background:url(../images/IMG-20200815-WA0030.jpg);
+    border-radius: 20px;
+    margin-top:3%;
+}
+*/
+.creator-image
+{
+    text-align: center;
+    width:20%;
+    height:20%;
+    border-radius: 100%;
+}
+
+
+
+/*apps*/
+.APP1
+{
+   
+    
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+li{
+    padding-left: 30px;
+    
+}
+#APP1L{
+    width:80%;
+    height:50%;
+    border-radius: 20px;
+    margin-top: 0.5rem;
+    -webkit-transition: all 500ms ease-in-out;
+}
+#APP1L:hover
+{
+    width:90%;
+    height:60%;
+}
+/*unboxing */
+h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+}
+#ub
+{
+    text-align: center;
+    text-shadow: 0 2px 5px rgba(0,0,0,.2);
+    
+}
+.ubox
+{
+    width:80%;
+    height:70%;
+    border-radius: 20px;
+    margin-top: 0.5rem;
+    -webkit-transition: all 500ms ease-in-out;
+}
+.ubox:hover{
+    width:90%;
+    height:80%;
+}
+.gamebottomrow
+{
+    width:80%;
+    height:70%;
+    border-radius: 20px;
+    margin-top: 0.5rem;
+    -webkit-transition: all 500ms ease-in-out;
+}
+.gamebottomrow:hover{
+    width:83% ;
+    height:73%;
+}
+p{
+    font-weight: bolder;
+    padding-top: 20px;
+}
+/*gaming flicks*/
+h6{
+    text-align: center;
+    margin: 10px;
+    padding:1rem;
+    color: #0f4c75;
+}
+#gfrow3
+{
+    margin-top: 1rem;
+}
+/*PROJECTS*/
+h5{
+    color: indigo;
+    text-align: center;
+    padding:60px;
+}
+/*tutorials*/
+
+
+#tut1
+{
+    text-align: left;
+}
+/*connect us*/
+.connect-us-image
+{
+ 
+    margin-top:10%;
+    margin-bottom: 10%;
+    margin-left:2%;
+    margin-right:2%;
+    width: 100%;
+    height:90%;
+    border-radius: 25px;
+}
+.connect-us-info
+{
+    text-align: center;
+    color:black;
+}
+.connect-creator-image
+{
+    text-align: center;
+    margin: 10%;
+    width: 35%;
+    height: 40%;
+    border-radius: 100%;
+}
