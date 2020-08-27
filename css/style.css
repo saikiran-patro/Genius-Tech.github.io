@@ -6,6 +6,20 @@
     
     
 }
+.cont-nav
+{
+    display: flex;
+    
+
+    padding-right: 1rem;;
+}
+.item
+{
+    padding-right: 2rem;
+    padding-left:10rem;
+    margin-left: 1rem;
+    margin-right:1rem;
+}
 
 .options:hover
 {
